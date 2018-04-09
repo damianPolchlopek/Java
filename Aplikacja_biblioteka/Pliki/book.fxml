@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<DialogPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="sample.ContactPanel">
+
+    <content>
+        <GridPane>
+            <Label text="Title: " GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+            <TextField fx:id="titleField" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+
+            <Label text="Price: " GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+            <TextField fx:id="priceField" GridPane.rowIndex="1" GridPane.columnIndex="1"/>
+
+            <Label text="Author: " GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+            <TextField fx:id="authorField" GridPane.rowIndex="2" GridPane.columnIndex="1"/>
+
+            <Label text="Publishing House " GridPane.rowIndex="3" GridPane.columnIndex="0"/>
+            <TextField fx:id="publishingHouseField" GridPane.rowIndex="3" GridPane.columnIndex="1"/>
+
+            <Label text="Publication Date" GridPane.rowIndex="4" GridPane.columnIndex="0"/>
+            <TextField fx:id="publicationDateField" GridPane.rowIndex="4" GridPane.columnIndex="1"/>
+
+            <Label text="Number of pages: " GridPane.rowIndex="5" GridPane.columnIndex="0"/>
+            <TextField fx:id="numberOfPagesField" GridPane.rowIndex="5" GridPane.columnIndex="1"/>
+
+            <Label text="Genre: " GridPane.rowIndex="6" GridPane.columnIndex="0"/>
+            <TextField fx:id="genreField" GridPane.rowIndex="6" GridPane.columnIndex="1"/>
+        </GridPane>
+    </content>
+</DialogPane>

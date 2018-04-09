@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<books>
+<book>
+	<title>To</title>
+	<price>36,73</price>
+	<author>Stephen King</author>
+	<publishing_house>Albatros</publishing_house>
+	<publication_date>2017</publication_date>
+	<number_of_pages>1104</number_of_pages>
+	<genre>Horror</genre>
+</book>
+<book>
+	<title>Bastion</title>
+	<price>36,72</price>
+	<author>Stephen King</author>
+	<publishing_house>Albatros</publishing_house>
+	<publication_date>2017</publication_date>
+	<number_of_pages>1168</number_of_pages>
+	<genre>Horror</genre>
+</book>
+<book>
+	<title>Pacjent Zero</title>
+	<price>26,25</price>
+	<author>Jonathan Maberry</author>
+	<publishing_house>MAG</publishing_house>
+	<publication_date>2017</publication_date>
+	<number_of_pages>560</number_of_pages>
+	<genre>Horror</genre>
+</book>
+<book>
+	<title>Cmentarz Zwierzat</title>
+	<price>24,00</price>
+	<author>Stephen King</author>
+	<publishing_house>Proszynski</publishing_house>
+	<publication_date>2011</publication_date>
+	<number_of_pages>424</number_of_pages>
+	<genre>Horror</genre>
+</book>
+<book>
+	<title>Przed zmierzchem</title>
+	<price>29,93</price>
+	<author>Nora Roberts</author>
+	<publishing_house>Edipress Ksiazki</publishing_house>
+	<publication_date>2017</publication_date>
+	<number_of_pages>528</number_of_pages>
+	<genre>Romans</genre>
+</book>
+<book>
+	<title>Zdazyc z miloscia</title>
+	<price>26,18</price>
+	<author>Beata Majewska</author>
+	<publishing_house>Ksiaznica</publishing_house>
+	<publication_date>2017</publication_date>
+	<number_of_pages>352</number_of_pages>
+	<genre>Romans</genre>
+</book>
+<book>
+	<title>Pomiedzy nami gory</title>
+	<price>29,93</price>
+	<author>Charles Martin</author>
+	<publishing_house>Edipresse Ksiazki</publishing_house>
+	<publication_date>2017</publication_date>
+	<number_of_pages>336</number_of_pages>
+	<genre>Przygodowa</genre>
+</book>
+<book>
+	<title>Igrzyska Smierci</title>
+	<price>29,90</price>
+	<author>Suzanne Collins</author>
+	<publishing_house>Media Rodzina</publishing_house>
+	<publication_date>2012</publication_date>
+	<number_of_pages>352</number_of_pages>
+	<genre>Przygodowa</genre>
+</book>
+<book>
+	<title>Poczatek</title>
+	<price>33,68</price>
+	<author>Dan Brown</author>
+	<publishing_house>Sonia Draga</publishing_house>
+	<publication_date>2017</publication_date>
+	<number_of_pages>576</number_of_pages>
+	<genre>Thriller</genre>
+</book>
+<book>
+	<title>Za zamknietymi drzwiami</title>
+	<price>26,32</price>
+	<author>B.A. Paris</author>
+	<publishing_house>Albatros</publishing_house>
+	<publication_date>2017</publication_date>
+	<number_of_pages>304</number_of_pages>
+	<genre>Thriller</genre>
+</book>
+<book>
+	<title>Test1</title>
+	<price>asdas</price>
+	<author>kjk</author>
+	<publishing_house>knk</publishing_house>
+	<publication_date>Test5</publication_date>
+	<number_of_pages>Test6</number_of_pages>
+	<genre>Test7</genre>
+</book>
+<book>
+	<title>aaa</title>
+	<price>aaa</price>
+	<author>aaa</author>
+	<publishing_house>aaa</publishing_house>
+	<publication_date>aaa</publication_date>
+	<number_of_pages>aaa</number_of_pages>
+	<genre>aaa</genre>
+</book>
+</books>
